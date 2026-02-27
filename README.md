@@ -1,4 +1,5 @@
 # Rogue-Like Shooter
+![Gameplay](0227.gif)
 
 A modular top-down rogue-like shooter built in Python using Pygame, structured across multiple files using object-oriented design principles to maintain scalability and clean separation of logic.
 
