@@ -41,8 +41,8 @@ The objective was not only to create a playable game, but to architect a system 
 
 ##How to Run
 
-1. Install Python 3.x  
+1. Install Python 3.11 (supports pygame)  
 2. Install Pygame:
    pip install pygame
 3. Run the main file:
-   python main.py
+   run main1.py in IDLE python
