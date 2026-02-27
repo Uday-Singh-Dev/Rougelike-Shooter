@@ -263,8 +263,7 @@ font = pygame.font.Font(r"sprites/UI/font.otf", 70)
 game_music_channel = pygame.mixer.Channel(20)
 fade_channel = pygame.mixer.Channel(19)
 
-# Music
-game_music = pygame.mixer.Sound("audio/Game_music.wav")
+
 
 # Player Audio
 player_footstep = pygame.mixer.Sound("audio/player/footsteps.mp3")
@@ -302,5 +301,6 @@ Shotgun_shoot =pygame.mixer.Sound("audio/weapons/Shotgun shot.mp3")
 Shotgun_reload =pygame.mixer.Sound("audio/weapons/Shotgun reload.mp3")
 Sniper_shoot =pygame.mixer.Sound("audio/weapons/Sniper shot.mp3")
 Sniper_reload = pygame.mixer.Sound("audio/weapons/Sniper reload.mp3")
+
 
 
